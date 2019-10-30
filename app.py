@@ -1,7 +1,7 @@
 from instabot import Bot
 
 bot = Bot()
-bot.login(username= "alpha_test.me", password = "dado1234")
+bot.login(username= "username", password = "password")
 
 username = "rekan_hushyar"
 user_id = bot.convert_to_user_id(username)
